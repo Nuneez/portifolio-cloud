@@ -1,28 +1,24 @@
-# Meu Portfólio Cloud - [Nuneez]
+# Portfólio Cloud - [Paulo Nunes]
 
-Olá! Sou Analista de Sistemas com experiência em Suporte TI. Estou migrando para a área de **Cloud Computing** e documentando meu aprendizado aqui.
+**Formação:** Análise de Sistemas  
+**Experiência:** Suporte Técnico TI (vários anos)  
+**Objetivo:** Transição para Cloud Computing (Azure / AWS)
 
-**Objetivo atual:** Conseguir uma vaga como Cloud Support / Cloud Analyst / Junior Cloud Engineer.
+Estou estudando ativamente para voltar à área de TI em posições de **Cloud Support, Cloud Analyst ou Infraestrutura Cloud**.
 
-## Certificações em andamento
-- Azure AZ-900 (Microsoft Azure Fundamentals) - Em estudo
+## Estrutura do Portfólio
 
-## Projetos
+- [📊 Diagramas](diagramas/) - Arquiteturas e desenhos de infraestrutura
+- [💻 Projetos](projetos/) - Projetos práticos realizados
+- [📜 Certificações](certificados/) - Certificados e progresso
 
-### 1. Arquitetura Básica na Azure/AWS (em breve)
-- Diagrama de uma infraestrutura simples
-- VPC / Rede virtual
-- Máquina virtual + armazenamento
+## Habilidades Atuais
+- Suporte Técnico e Troubleshooting
+- Lógica de sistemas e redes
+- Conceitos de Cloud Computing (IaaS, PaaS, SaaS)
+- Estudando: Microsoft Azure
 
-### 2. Documentação de Migração para Cloud
-- Comparativo On-Premise x Cloud
-- Custos e melhores práticas
+---
 
-## Habilidades
-- Suporte Técnico (Windows, redes, troubleshooting)
-- Lógica de sistemas e infraestrutura
-- Conceitos de Cloud (IaaS, PaaS, SaaS)
-- Estudando: Azure / AWS
-
-Estou aberto a oportunidades remotas ou presenciais (Brasil).
-Contato: [paulonunez_1@hotmail.com]
+Aberto a oportunidades remotas ou presenciais.  
+Última atualização: Junho 2026
